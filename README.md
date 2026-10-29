@@ -46,8 +46,8 @@ These elements should be verified in the editable Figma file before submission.
 - **GitHub:** Source files and project documentation.
 
 ## Figma Design Link
-VIEW BLOMME ON FIGMA: https://www.figma.com/community/file/1697671429108285710
-
+## Figma Design
+[View BLOMME UI/UX Design on Figma](https://www.figma.com/community/file/1697671429108285710)
 ## Deliverables
 - Complete responsive product landing-page design.
 - Desktop and mobile design frames.
